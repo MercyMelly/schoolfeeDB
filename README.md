@@ -31,14 +31,11 @@ The system is structured around these core tables:
 
 The diagram below visualizes all tables and how they relate to one another.
 
-📌 **ERD File Included**:  
-A `.drawio` diagram file named `schoolfee_erd.drawio` is included in this project for easy editing and export.
+erd_diagram.mwb
 
-![ERD Diagram](schoolfee_erd.png)
-
----
+you can view the file by opening it up in MySQL 
 
 ## Tools used
 
-### MySQL
-### VS Code
+##### MySQL
+##### VS Code
